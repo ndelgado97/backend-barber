@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de configuración sensibles
+config/secret-key.json
+
+# Archivos de log
+*.log
+
+# Sistema operativo
+.DS_Store
+
+.codegpt
